@@ -1,0 +1,4 @@
+com/once10301/flutter_upgrade/FlutterUpgradePlugin.java
+ com.once10301.flutter_upgrade.FlutterUpgradePlugin
+com/once10301/flutter_upgrade/BuildConfig.java
+ com.once10301.flutter_upgrade.BuildConfig

@@ -1,0 +1,12 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.once10301.flutter_upgrade" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->G:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_upgrade-0.0.1\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+7-->G:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_upgrade-0.0.1\android\src\main\AndroidManifest.xml:4:5-83
+7-->G:\flutter\.pub-cache\hosted\pub.dartlang.org\flutter_upgrade-0.0.1\android\src\main\AndroidManifest.xml:4:22-80
+8
+9</manifest>
